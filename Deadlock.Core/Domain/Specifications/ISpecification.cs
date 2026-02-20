@@ -1,0 +1,14 @@
+﻿using Deadlock.Core.Domain.Entities;
+using System.Linq.Expressions;
+
+namespace Deadlock.Core.Domain.Specifications
+{
+    public interface ISpecification<T> where T : BaseClass
+    {
+        public Expression<Func<T, bool>> Criteria { get; protected set; }
+        public List<Expression<Func<T, object>>> Includes { get; protected set; }
+        public List<Func<IQueryable<T>, IQueryable<T>>> ComplexIncludes { get; protected set; }
+        Expression<Func<T, object>> OrderBy { get; protected set; }
+        Expression<Func<T, object>> OrderByDescending { get; protected set; }
+    }
+}

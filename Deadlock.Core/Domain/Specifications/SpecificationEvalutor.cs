@@ -1,0 +1,27 @@
+﻿using Deadlock.Core.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+namespace Deadlock.Core.Domain.Specifications
+{
+    public static class SpecificationEvalutor<TEntity> where TEntity : BaseClass
+    {
+        public static IQueryable<TEntity> GetQuery(IQueryable<TEntity> input, ISpecification<TEntity> spec)
+        {
+            var query = input;
+            if (spec.Criteria is not null)
+                query = query.Where(spec.Criteria);
+
+            if (spec.Includes?.Any() == true)
+                query = spec.Includes.Aggregate(query, (Current, IncludeExpression) => Current.Include(IncludeExpression));
+            if (spec.ComplexIncludes?.Any() == true)
+                query = spec.ComplexIncludes.Aggregate(query, (current, includeQuery) => includeQuery(current));
+
+            if (spec.OrderBy != null)
+                query = query.OrderBy(spec.OrderBy);
+            else if (spec.OrderByDescending != null)
+                query = query.OrderByDescending(spec.OrderByDescending);
+
+            return query;
+        }
+    }
+
+}

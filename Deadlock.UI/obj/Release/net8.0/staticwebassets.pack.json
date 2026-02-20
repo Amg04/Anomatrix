@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\ffmpeg_error.log",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\ffmpeg_error.log"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\index.m3u8",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\index.m3u8"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_074.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_074.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_077.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_077.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_090.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_090.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_094.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_094.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_097.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_097.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_100.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_100.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_114.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_114.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_118.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_118.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_119.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_119.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_120.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_120.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_121.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_121.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_122.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_122.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_124.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_124.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_165.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_165.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_167.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_167.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_169.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_169.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_171.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_171.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_177.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_177.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_178.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_178.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_179.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_179.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_187.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_187.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_190.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_190.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_193.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_193.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_206.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_206.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_212.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_212.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_223.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_223.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_236.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_236.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_244.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_244.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_255.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_255.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_260.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_260.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_277.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_277.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_283.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_283.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_299.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_299.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_300.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_300.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_301.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_301.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_302.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_302.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_303.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_303.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_304.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_304.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_305.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_305.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_306.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_306.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_307.ts",
+      "PackagePath": "staticwebassets\\api\\streams\\1\\segment_307.ts"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\2\\ffmpeg_error.log",
+      "PackagePath": "staticwebassets\\api\\streams\\2\\ffmpeg_error.log"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Deadlock.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Deadlock.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Deadlock.UI.props",
+      "PackagePath": "build\\Deadlock.UI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Deadlock.UI.props",
+      "PackagePath": "buildMultiTargeting\\Deadlock.UI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Deadlock.UI.props",
+      "PackagePath": "buildTransitive\\Deadlock.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

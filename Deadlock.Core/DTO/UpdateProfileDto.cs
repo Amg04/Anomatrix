@@ -1,0 +1,19 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Deadlock.Core.DTO
+{
+    public class UpdateProfileDto
+    {
+        public string? ImageUrl { get; set; }
+        public string? Role { get; set; }
+        public string? Name { get; set; }
+        [EmailAddress]
+        [Required]
+        public string Email { get; set; } = string.Empty;
+        [Phone]
+        public string? PhoneNumber { get; set; }
+        [Required]
+        public string Company { get; set; } = string.Empty;
+        public string Location { get; set; } = string.Empty;
+    }
+}

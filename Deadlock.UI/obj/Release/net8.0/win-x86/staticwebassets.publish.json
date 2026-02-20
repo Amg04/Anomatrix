@@ -1,0 +1,4554 @@
+{
+  "Version": 1,
+  "Hash": "TdyPoQmrYj2zBsgs3pAl7XyzhlueIpnlJoCOMzG3BYQ=",
+  "Source": "Deadlock.UI",
+  "BasePath": "_content/Deadlock.UI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Deadlock.UI\\wwwroot",
+      "Source": "Deadlock.UI",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\ffmpeg_error.log",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/ffmpeg_error#[.{fingerprint}]?.log",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "251jt4rcxi",
+      "Integrity": "hglKZIIfO1QOYHtEOTV9l7hwHzvy+J9eA1hP9xLwHJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\ffmpeg_error.log"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\index.m3u8",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/index#[.{fingerprint}]?.m3u8",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f1vtdn64ex",
+      "Integrity": "Y4sMNWCKKKoYV4ozIddHdeETK3kaJhI3926EAdc8Jyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\index.m3u8"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_074.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_074#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1osqgkzlao",
+      "Integrity": "X5xJY8oOX0SwltP+DrNXR5tySsML0AqA2r2zoN8VGVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_074.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_077.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_077#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2qpjidfxsl",
+      "Integrity": "BiGCRCJetxj5nSdnkSvl3/hu3WFTXv/BwCJ9qsFogig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_077.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_090.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_090#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jbk6lfv2b",
+      "Integrity": "oJ6OP9I5/0r/u2rvkI99JnftoTBWd1EzG4bVD+ypj9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_090.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_094.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_094#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y2xmohhs51",
+      "Integrity": "BqP7VdqHkUGooN5AZ/n2A1klXeg+7K3MPayQrIvlix8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_094.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_097.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_097#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wbjbcthf5",
+      "Integrity": "8m1RJjINE2w+DypNk7TSCFhRz4P6uf3gGCgDiQVyBeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_097.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_100.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_100#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1ljbuk06a",
+      "Integrity": "SlQy6stBMBwHTXoYweQwCcKOOooEzDUes4/9s0Vf890=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_100.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_114.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_114#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4p0f1ax48a",
+      "Integrity": "uDXHt3Qa9KnIDUgEtEdSBvvjqHtWZ+0BWElVYcIQBi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_114.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_118.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_118#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izple1p8cm",
+      "Integrity": "MofAbRd6DtT768hbo9mCbPMINIRFfNuYuBGncW9gwBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_118.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_119.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_119#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tyrj7qm6kd",
+      "Integrity": "VQPfzNE9bpUvf+kdxLl2RNpwGF1esWnZfpCVR8steHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_119.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_120.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_120#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ual87ijfy",
+      "Integrity": "HY775IJjaIIm79BNTqNafUvOhneQ16tHbq8Zi1E9MVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_120.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_121.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_121#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wzpksx68ij",
+      "Integrity": "ZB+K384O2J3b+hOs3iGb8dWa7Mr8RmFfQN9DgkNbjJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_121.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_122.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_122#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v97yzrh19v",
+      "Integrity": "U/jbgZK+LpdGhFQ1uJ7CQsoXXv1prnFFCgftR+0Bea4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_122.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_124.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_124#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "erxlsq8meq",
+      "Integrity": "KuIJqd4GbT5gzlMvgKWZXkqkVH9OhSpCWHTzYN9rJEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_124.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_165.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_165#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "615a68uw05",
+      "Integrity": "BgKqcenWqqWMqhkrJgKwI1tkn+nMdYBArWcbMfL3T8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_165.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_167.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_167#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xkmlhi8zl2",
+      "Integrity": "kd6qlafCsIIYO1gscJ6HCH5HANdzso/2u6v+g0S5BBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_167.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_169.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_169#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6l33obsd9p",
+      "Integrity": "6lhKgjW8tKF9Iw8C8x4EmgcXRA234zlWTP9rf82yn1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_169.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_171.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_171#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32562ig5yh",
+      "Integrity": "G2lFgqFNU2Ub5TedcWUQoEF0NbCDP6NvaWNsA39I4v4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_171.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_177.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_177#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wn0q9vng0g",
+      "Integrity": "JIV+JlvV9+7C1fwEEnNOcabF5qC6RjXuA9nSIMMKKMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_177.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_178.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_178#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bs3ooxtbv9",
+      "Integrity": "K/XLJGHOhvhQJnoMHnCZcFZlwhQl8wSVprAyutuRW0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_178.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_179.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_179#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7w14sq3l5a",
+      "Integrity": "l5bK5kv+3LIsDr/p0K1mB92uXLr+OUGOvu8UxNioytI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_179.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_187.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_187#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7old8fv2qg",
+      "Integrity": "98IPjMCF7KIgUMQ/naTS6YpC2lJBAToqeSMK0cGZXKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_187.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_190.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_190#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dr7hoxwrq5",
+      "Integrity": "iT0TWVg8NGM7DQsGNy0cNv4QMak1ZzJEYnSjjM+kwLo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_190.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_193.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_193#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8dxqy3lheh",
+      "Integrity": "bAl72qOLLO4lwo4fKgnwmGd5vrjXl2HuYk81EBxtQEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_193.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_206.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_206#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1pf2auwk3",
+      "Integrity": "kLb01drS0tB/l6lG48OBewBFg2sOIXQGBA/C/XEErYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_206.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_212.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_212#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "usc5csmq3r",
+      "Integrity": "8tNh2+ifBS7+4qA/4nbQ9Yq9nfbI1Pwr3DyMW9IqCJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_212.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_223.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_223#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hhovyj53zu",
+      "Integrity": "S9T2bBzIOaLPNqvKGr7Fhy1VlMGJgA7JQqIdAv0mIbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_223.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_236.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_236#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mzlet9bk4o",
+      "Integrity": "0heIrVYF5TNX4V6Tmds3nZcJxTe51TUsBE5fFK7W4fQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_236.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_244.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_244#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gicx2gqnzq",
+      "Integrity": "mJ/ffRJqBnxOfdCuW8ugc3cjJ0vnPZpMOAh0AAJQono=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_244.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_255.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_255#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgh8tkv7u3",
+      "Integrity": "Xcfy6JA0ZYJ08yv98TsJZvrWRVxenuvqnDO3/Hrvlkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_255.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_260.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_260#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lgs0y5i4y5",
+      "Integrity": "67mU2k/Ng+vI18eSpLcq/SMRHc25Q0tSIJRjZWYBSVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_260.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_277.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_277#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sef97l5rh0",
+      "Integrity": "RKFGGdTY3isB0U8ZDKbr354GrWYcjdu55HKk42L1BhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_277.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_283.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_283#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q1lpjxpp86",
+      "Integrity": "MuJKcixgwFPsaQXABgvHIVOtyQyB5kkvq1nw1gLBBJE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_283.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_299.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_299#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ipsxg4bq8",
+      "Integrity": "IHH/mUqZLV1KTW1NCd4C8ANuFdDSU4993yiMXYj8QnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_299.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_300.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_300#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r93ilrh7ch",
+      "Integrity": "DzKqOrFYx7pTTUCr+5uzR4farARsMCGPMYRihb3Y0lo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_300.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_301.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_301#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pkbsivtf0g",
+      "Integrity": "ZxgK9c5I6sSbVb/YCuwSVPPFdTUJeUvpyI4QECiwpEs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_301.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_302.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_302#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ohnai81hma",
+      "Integrity": "bFcpAhL2UPEd7rePElk4sKei2z+tjqI1eVAF5wmqQ/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_302.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_303.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_303#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ddhxjx92gk",
+      "Integrity": "Mf0xcCtpXqB7PSvbNkMgzalYRnOsqRWuWnzX/s8sx44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_303.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_304.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_304#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nwr7urohkw",
+      "Integrity": "+YzqMX+f8nXO5aP7bBEtMS7cWLJl5LLfLClVDkQDDy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_304.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_305.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_305#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbju5essoo",
+      "Integrity": "VppHqSCf4aZrpFqXS7kv8fDGb0iYnngXGv4bBhEQTdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_305.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_306.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_306#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nblku21fbq",
+      "Integrity": "855s3Dyd6tQOYA+k3gn8FYkTpDWXEqdpQUZ2+C8jZ30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_306.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_307.ts",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/1/segment_307#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2utddyqls",
+      "Integrity": "hV40dhOk19tfY4CU+nHxBfElAmJPiO8txnVtDcGyRIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\1\\segment_307.ts"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\2\\ffmpeg_error.log",
+      "SourceId": "Deadlock.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\",
+      "BasePath": "_content/Deadlock.UI",
+      "RelativePath": "api/streams/2/ffmpeg_error#[.{fingerprint}]?.log",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12st3ddh6w",
+      "Integrity": "SXoIv0e9RrsFUwDie1cuUTpVEsMOR0oc7D082kvGzk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\streams\\2\\ffmpeg_error.log"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "api/streams/1/ffmpeg_error.251jt4rcxi.log",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\ffmpeg_error.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2196767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hglKZIIfO1QOYHtEOTV9l7hwHzvy+J9eA1hP9xLwHJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 14:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "251jt4rcxi"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/ffmpeg_error.log"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hglKZIIfO1QOYHtEOTV9l7hwHzvy+J9eA1hP9xLwHJM="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/ffmpeg_error.log",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\ffmpeg_error.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2196767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hglKZIIfO1QOYHtEOTV9l7hwHzvy+J9eA1hP9xLwHJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 14:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hglKZIIfO1QOYHtEOTV9l7hwHzvy+J9eA1hP9xLwHJM="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/index.f1vtdn64ex.m3u8",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\index.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y4sMNWCKKKoYV4ozIddHdeETK3kaJhI3926EAdc8Jyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f1vtdn64ex"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/index.m3u8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y4sMNWCKKKoYV4ozIddHdeETK3kaJhI3926EAdc8Jyg="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/index.m3u8",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\index.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y4sMNWCKKKoYV4ozIddHdeETK3kaJhI3926EAdc8Jyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y4sMNWCKKKoYV4ozIddHdeETK3kaJhI3926EAdc8Jyg="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_074.1osqgkzlao.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_074.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5xJY8oOX0SwltP+DrNXR5tySsML0AqA2r2zoN8VGVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:50:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1osqgkzlao"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_074.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5xJY8oOX0SwltP+DrNXR5tySsML0AqA2r2zoN8VGVg="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_074.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_074.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5xJY8oOX0SwltP+DrNXR5tySsML0AqA2r2zoN8VGVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:50:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5xJY8oOX0SwltP+DrNXR5tySsML0AqA2r2zoN8VGVg="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_077.2qpjidfxsl.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_077.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BiGCRCJetxj5nSdnkSvl3/hu3WFTXv/BwCJ9qsFogig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:50:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2qpjidfxsl"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_077.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BiGCRCJetxj5nSdnkSvl3/hu3WFTXv/BwCJ9qsFogig="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_077.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_077.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BiGCRCJetxj5nSdnkSvl3/hu3WFTXv/BwCJ9qsFogig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:50:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BiGCRCJetxj5nSdnkSvl3/hu3WFTXv/BwCJ9qsFogig="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_090.4jbk6lfv2b.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_090.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJ6OP9I5/0r/u2rvkI99JnftoTBWd1EzG4bVD+ypj9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jbk6lfv2b"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_090.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oJ6OP9I5/0r/u2rvkI99JnftoTBWd1EzG4bVD+ypj9g="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_090.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_090.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oJ6OP9I5/0r/u2rvkI99JnftoTBWd1EzG4bVD+ypj9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oJ6OP9I5/0r/u2rvkI99JnftoTBWd1EzG4bVD+ypj9g="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_094.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_094.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqP7VdqHkUGooN5AZ/n2A1klXeg+7K3MPayQrIvlix8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqP7VdqHkUGooN5AZ/n2A1klXeg+7K3MPayQrIvlix8="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_094.y2xmohhs51.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_094.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BqP7VdqHkUGooN5AZ/n2A1klXeg+7K3MPayQrIvlix8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2xmohhs51"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_094.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BqP7VdqHkUGooN5AZ/n2A1klXeg+7K3MPayQrIvlix8="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_097.2wbjbcthf5.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_097.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "467932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8m1RJjINE2w+DypNk7TSCFhRz4P6uf3gGCgDiQVyBeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wbjbcthf5"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_097.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8m1RJjINE2w+DypNk7TSCFhRz4P6uf3gGCgDiQVyBeU="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_097.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_097.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "467932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8m1RJjINE2w+DypNk7TSCFhRz4P6uf3gGCgDiQVyBeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8m1RJjINE2w+DypNk7TSCFhRz4P6uf3gGCgDiQVyBeU="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_100.m1ljbuk06a.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_100.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlQy6stBMBwHTXoYweQwCcKOOooEzDUes4/9s0Vf890=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1ljbuk06a"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_100.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlQy6stBMBwHTXoYweQwCcKOOooEzDUes4/9s0Vf890="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_100.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_100.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlQy6stBMBwHTXoYweQwCcKOOooEzDUes4/9s0Vf890=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:56:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlQy6stBMBwHTXoYweQwCcKOOooEzDUes4/9s0Vf890="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_114.4p0f1ax48a.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_114.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uDXHt3Qa9KnIDUgEtEdSBvvjqHtWZ+0BWElVYcIQBi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4p0f1ax48a"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_114.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uDXHt3Qa9KnIDUgEtEdSBvvjqHtWZ+0BWElVYcIQBi4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_114.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_114.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uDXHt3Qa9KnIDUgEtEdSBvvjqHtWZ+0BWElVYcIQBi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uDXHt3Qa9KnIDUgEtEdSBvvjqHtWZ+0BWElVYcIQBi4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_118.izple1p8cm.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_118.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MofAbRd6DtT768hbo9mCbPMINIRFfNuYuBGncW9gwBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izple1p8cm"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_118.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MofAbRd6DtT768hbo9mCbPMINIRFfNuYuBGncW9gwBY="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_118.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_118.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MofAbRd6DtT768hbo9mCbPMINIRFfNuYuBGncW9gwBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MofAbRd6DtT768hbo9mCbPMINIRFfNuYuBGncW9gwBY="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_119.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_119.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQPfzNE9bpUvf+kdxLl2RNpwGF1esWnZfpCVR8steHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQPfzNE9bpUvf+kdxLl2RNpwGF1esWnZfpCVR8steHs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_119.tyrj7qm6kd.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_119.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQPfzNE9bpUvf+kdxLl2RNpwGF1esWnZfpCVR8steHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyrj7qm6kd"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_119.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQPfzNE9bpUvf+kdxLl2RNpwGF1esWnZfpCVR8steHs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_120.5ual87ijfy.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_120.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HY775IJjaIIm79BNTqNafUvOhneQ16tHbq8Zi1E9MVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ual87ijfy"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_120.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HY775IJjaIIm79BNTqNafUvOhneQ16tHbq8Zi1E9MVU="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_120.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_120.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HY775IJjaIIm79BNTqNafUvOhneQ16tHbq8Zi1E9MVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HY775IJjaIIm79BNTqNafUvOhneQ16tHbq8Zi1E9MVU="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_121.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_121.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB+K384O2J3b+hOs3iGb8dWa7Mr8RmFfQN9DgkNbjJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB+K384O2J3b+hOs3iGb8dWa7Mr8RmFfQN9DgkNbjJs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_121.wzpksx68ij.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_121.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB+K384O2J3b+hOs3iGb8dWa7Mr8RmFfQN9DgkNbjJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wzpksx68ij"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_121.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB+K384O2J3b+hOs3iGb8dWa7Mr8RmFfQN9DgkNbjJs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_122.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_122.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/jbgZK+LpdGhFQ1uJ7CQsoXXv1prnFFCgftR+0Bea4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/jbgZK+LpdGhFQ1uJ7CQsoXXv1prnFFCgftR+0Bea4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_122.v97yzrh19v.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_122.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/jbgZK+LpdGhFQ1uJ7CQsoXXv1prnFFCgftR+0Bea4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v97yzrh19v"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_122.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/jbgZK+LpdGhFQ1uJ7CQsoXXv1prnFFCgftR+0Bea4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_124.erxlsq8meq.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_124.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuIJqd4GbT5gzlMvgKWZXkqkVH9OhSpCWHTzYN9rJEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "erxlsq8meq"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_124.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuIJqd4GbT5gzlMvgKWZXkqkVH9OhSpCWHTzYN9rJEA="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_124.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_124.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuIJqd4GbT5gzlMvgKWZXkqkVH9OhSpCWHTzYN9rJEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 18:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuIJqd4GbT5gzlMvgKWZXkqkVH9OhSpCWHTzYN9rJEA="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_165.615a68uw05.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_165.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2698740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgKqcenWqqWMqhkrJgKwI1tkn+nMdYBArWcbMfL3T8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "615a68uw05"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_165.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgKqcenWqqWMqhkrJgKwI1tkn+nMdYBArWcbMfL3T8c="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_165.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_165.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2698740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgKqcenWqqWMqhkrJgKwI1tkn+nMdYBArWcbMfL3T8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgKqcenWqqWMqhkrJgKwI1tkn+nMdYBArWcbMfL3T8c="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_167.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_167.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kd6qlafCsIIYO1gscJ6HCH5HANdzso/2u6v+g0S5BBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kd6qlafCsIIYO1gscJ6HCH5HANdzso/2u6v+g0S5BBE="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_167.xkmlhi8zl2.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_167.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kd6qlafCsIIYO1gscJ6HCH5HANdzso/2u6v+g0S5BBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkmlhi8zl2"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_167.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kd6qlafCsIIYO1gscJ6HCH5HANdzso/2u6v+g0S5BBE="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_169.6l33obsd9p.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_169.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhKgjW8tKF9Iw8C8x4EmgcXRA234zlWTP9rf82yn1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l33obsd9p"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_169.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhKgjW8tKF9Iw8C8x4EmgcXRA234zlWTP9rf82yn1o="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_169.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_169.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhKgjW8tKF9Iw8C8x4EmgcXRA234zlWTP9rf82yn1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhKgjW8tKF9Iw8C8x4EmgcXRA234zlWTP9rf82yn1o="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_171.32562ig5yh.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_171.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2303564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2lFgqFNU2Ub5TedcWUQoEF0NbCDP6NvaWNsA39I4v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32562ig5yh"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_171.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2lFgqFNU2Ub5TedcWUQoEF0NbCDP6NvaWNsA39I4v4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_171.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_171.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2303564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2lFgqFNU2Ub5TedcWUQoEF0NbCDP6NvaWNsA39I4v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Feb 2026 19:22:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2lFgqFNU2Ub5TedcWUQoEF0NbCDP6NvaWNsA39I4v4="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_177.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_177.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIV+JlvV9+7C1fwEEnNOcabF5qC6RjXuA9nSIMMKKMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIV+JlvV9+7C1fwEEnNOcabF5qC6RjXuA9nSIMMKKMk="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_177.wn0q9vng0g.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_177.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIV+JlvV9+7C1fwEEnNOcabF5qC6RjXuA9nSIMMKKMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wn0q9vng0g"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_177.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIV+JlvV9+7C1fwEEnNOcabF5qC6RjXuA9nSIMMKKMk="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_178.bs3ooxtbv9.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_178.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/XLJGHOhvhQJnoMHnCZcFZlwhQl8wSVprAyutuRW0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bs3ooxtbv9"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_178.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/XLJGHOhvhQJnoMHnCZcFZlwhQl8wSVprAyutuRW0o="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_178.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_178.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/XLJGHOhvhQJnoMHnCZcFZlwhQl8wSVprAyutuRW0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/XLJGHOhvhQJnoMHnCZcFZlwhQl8wSVprAyutuRW0o="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_179.7w14sq3l5a.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_179.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l5bK5kv+3LIsDr/p0K1mB92uXLr+OUGOvu8UxNioytI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7w14sq3l5a"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_179.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l5bK5kv+3LIsDr/p0K1mB92uXLr+OUGOvu8UxNioytI="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_179.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_179.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l5bK5kv+3LIsDr/p0K1mB92uXLr+OUGOvu8UxNioytI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l5bK5kv+3LIsDr/p0K1mB92uXLr+OUGOvu8UxNioytI="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_187.7old8fv2qg.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_187.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98IPjMCF7KIgUMQ/naTS6YpC2lJBAToqeSMK0cGZXKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7old8fv2qg"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_187.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-98IPjMCF7KIgUMQ/naTS6YpC2lJBAToqeSMK0cGZXKY="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_187.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_187.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98IPjMCF7KIgUMQ/naTS6YpC2lJBAToqeSMK0cGZXKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-98IPjMCF7KIgUMQ/naTS6YpC2lJBAToqeSMK0cGZXKY="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_190.dr7hoxwrq5.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_190.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iT0TWVg8NGM7DQsGNy0cNv4QMak1ZzJEYnSjjM+kwLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dr7hoxwrq5"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_190.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iT0TWVg8NGM7DQsGNy0cNv4QMak1ZzJEYnSjjM+kwLo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_190.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_190.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iT0TWVg8NGM7DQsGNy0cNv4QMak1ZzJEYnSjjM+kwLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iT0TWVg8NGM7DQsGNy0cNv4QMak1ZzJEYnSjjM+kwLo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_193.8dxqy3lheh.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_193.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAl72qOLLO4lwo4fKgnwmGd5vrjXl2HuYk81EBxtQEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dxqy3lheh"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_193.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAl72qOLLO4lwo4fKgnwmGd5vrjXl2HuYk81EBxtQEQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_193.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_193.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAl72qOLLO4lwo4fKgnwmGd5vrjXl2HuYk81EBxtQEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:38:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAl72qOLLO4lwo4fKgnwmGd5vrjXl2HuYk81EBxtQEQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_206.s1pf2auwk3.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_206.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kLb01drS0tB/l6lG48OBewBFg2sOIXQGBA/C/XEErYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1pf2auwk3"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_206.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kLb01drS0tB/l6lG48OBewBFg2sOIXQGBA/C/XEErYo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_206.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_206.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kLb01drS0tB/l6lG48OBewBFg2sOIXQGBA/C/XEErYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kLb01drS0tB/l6lG48OBewBFg2sOIXQGBA/C/XEErYo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_212.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_212.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8tNh2+ifBS7+4qA/4nbQ9Yq9nfbI1Pwr3DyMW9IqCJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8tNh2+ifBS7+4qA/4nbQ9Yq9nfbI1Pwr3DyMW9IqCJs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_212.usc5csmq3r.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_212.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8tNh2+ifBS7+4qA/4nbQ9Yq9nfbI1Pwr3DyMW9IqCJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "usc5csmq3r"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_212.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8tNh2+ifBS7+4qA/4nbQ9Yq9nfbI1Pwr3DyMW9IqCJs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_223.hhovyj53zu.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_223.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9T2bBzIOaLPNqvKGr7Fhy1VlMGJgA7JQqIdAv0mIbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hhovyj53zu"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_223.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9T2bBzIOaLPNqvKGr7Fhy1VlMGJgA7JQqIdAv0mIbA="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_223.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_223.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9T2bBzIOaLPNqvKGr7Fhy1VlMGJgA7JQqIdAv0mIbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9T2bBzIOaLPNqvKGr7Fhy1VlMGJgA7JQqIdAv0mIbA="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_236.mzlet9bk4o.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_236.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0heIrVYF5TNX4V6Tmds3nZcJxTe51TUsBE5fFK7W4fQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mzlet9bk4o"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_236.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0heIrVYF5TNX4V6Tmds3nZcJxTe51TUsBE5fFK7W4fQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_236.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_236.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0heIrVYF5TNX4V6Tmds3nZcJxTe51TUsBE5fFK7W4fQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0heIrVYF5TNX4V6Tmds3nZcJxTe51TUsBE5fFK7W4fQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_244.gicx2gqnzq.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_244.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJ/ffRJqBnxOfdCuW8ugc3cjJ0vnPZpMOAh0AAJQono=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:41:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gicx2gqnzq"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_244.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJ/ffRJqBnxOfdCuW8ugc3cjJ0vnPZpMOAh0AAJQono="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_244.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_244.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJ/ffRJqBnxOfdCuW8ugc3cjJ0vnPZpMOAh0AAJQono=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:41:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJ/ffRJqBnxOfdCuW8ugc3cjJ0vnPZpMOAh0AAJQono="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_255.dgh8tkv7u3.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_255.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xcfy6JA0ZYJ08yv98TsJZvrWRVxenuvqnDO3/Hrvlkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgh8tkv7u3"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_255.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xcfy6JA0ZYJ08yv98TsJZvrWRVxenuvqnDO3/Hrvlkc="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_255.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_255.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xcfy6JA0ZYJ08yv98TsJZvrWRVxenuvqnDO3/Hrvlkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xcfy6JA0ZYJ08yv98TsJZvrWRVxenuvqnDO3/Hrvlkc="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_260.lgs0y5i4y5.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_260.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67mU2k/Ng+vI18eSpLcq/SMRHc25Q0tSIJRjZWYBSVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgs0y5i4y5"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_260.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-67mU2k/Ng+vI18eSpLcq/SMRHc25Q0tSIJRjZWYBSVc="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_260.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_260.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67mU2k/Ng+vI18eSpLcq/SMRHc25Q0tSIJRjZWYBSVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-67mU2k/Ng+vI18eSpLcq/SMRHc25Q0tSIJRjZWYBSVc="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_277.sef97l5rh0.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_277.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RKFGGdTY3isB0U8ZDKbr354GrWYcjdu55HKk42L1BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sef97l5rh0"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_277.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKFGGdTY3isB0U8ZDKbr354GrWYcjdu55HKk42L1BhQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_277.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_277.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RKFGGdTY3isB0U8ZDKbr354GrWYcjdu55HKk42L1BhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RKFGGdTY3isB0U8ZDKbr354GrWYcjdu55HKk42L1BhQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_283.q1lpjxpp86.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_283.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MuJKcixgwFPsaQXABgvHIVOtyQyB5kkvq1nw1gLBBJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q1lpjxpp86"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_283.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MuJKcixgwFPsaQXABgvHIVOtyQyB5kkvq1nw1gLBBJE="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_283.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_283.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MuJKcixgwFPsaQXABgvHIVOtyQyB5kkvq1nw1gLBBJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MuJKcixgwFPsaQXABgvHIVOtyQyB5kkvq1nw1gLBBJE="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_299.8ipsxg4bq8.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_299.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHH/mUqZLV1KTW1NCd4C8ANuFdDSU4993yiMXYj8QnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ipsxg4bq8"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_299.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHH/mUqZLV1KTW1NCd4C8ANuFdDSU4993yiMXYj8QnQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_299.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_299.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHH/mUqZLV1KTW1NCd4C8ANuFdDSU4993yiMXYj8QnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHH/mUqZLV1KTW1NCd4C8ANuFdDSU4993yiMXYj8QnQ="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_300.r93ilrh7ch.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_300.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DzKqOrFYx7pTTUCr+5uzR4farARsMCGPMYRihb3Y0lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r93ilrh7ch"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_300.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DzKqOrFYx7pTTUCr+5uzR4farARsMCGPMYRihb3Y0lo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_300.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_300.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DzKqOrFYx7pTTUCr+5uzR4farARsMCGPMYRihb3Y0lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DzKqOrFYx7pTTUCr+5uzR4farARsMCGPMYRihb3Y0lo="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_301.pkbsivtf0g.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_301.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxgK9c5I6sSbVb/YCuwSVPPFdTUJeUvpyI4QECiwpEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pkbsivtf0g"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_301.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxgK9c5I6sSbVb/YCuwSVPPFdTUJeUvpyI4QECiwpEs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_301.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_301.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxgK9c5I6sSbVb/YCuwSVPPFdTUJeUvpyI4QECiwpEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxgK9c5I6sSbVb/YCuwSVPPFdTUJeUvpyI4QECiwpEs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_302.ohnai81hma.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_302.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFcpAhL2UPEd7rePElk4sKei2z+tjqI1eVAF5wmqQ/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ohnai81hma"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_302.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFcpAhL2UPEd7rePElk4sKei2z+tjqI1eVAF5wmqQ/k="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_302.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_302.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFcpAhL2UPEd7rePElk4sKei2z+tjqI1eVAF5wmqQ/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFcpAhL2UPEd7rePElk4sKei2z+tjqI1eVAF5wmqQ/k="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_303.ddhxjx92gk.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_303.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf0xcCtpXqB7PSvbNkMgzalYRnOsqRWuWnzX/s8sx44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ddhxjx92gk"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_303.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf0xcCtpXqB7PSvbNkMgzalYRnOsqRWuWnzX/s8sx44="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_303.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_303.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf0xcCtpXqB7PSvbNkMgzalYRnOsqRWuWnzX/s8sx44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf0xcCtpXqB7PSvbNkMgzalYRnOsqRWuWnzX/s8sx44="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_304.nwr7urohkw.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_304.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+YzqMX+f8nXO5aP7bBEtMS7cWLJl5LLfLClVDkQDDy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwr7urohkw"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_304.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+YzqMX+f8nXO5aP7bBEtMS7cWLJl5LLfLClVDkQDDy8="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_304.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_304.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+YzqMX+f8nXO5aP7bBEtMS7cWLJl5LLfLClVDkQDDy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+YzqMX+f8nXO5aP7bBEtMS7cWLJl5LLfLClVDkQDDy8="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_305.qbju5essoo.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_305.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VppHqSCf4aZrpFqXS7kv8fDGb0iYnngXGv4bBhEQTdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbju5essoo"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_305.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VppHqSCf4aZrpFqXS7kv8fDGb0iYnngXGv4bBhEQTdw="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_305.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_305.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VppHqSCf4aZrpFqXS7kv8fDGb0iYnngXGv4bBhEQTdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VppHqSCf4aZrpFqXS7kv8fDGb0iYnngXGv4bBhEQTdw="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_306.nblku21fbq.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_306.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2131732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"855s3Dyd6tQOYA+k3gn8FYkTpDWXEqdpQUZ2+C8jZ30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nblku21fbq"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_306.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-855s3Dyd6tQOYA+k3gn8FYkTpDWXEqdpQUZ2+C8jZ30="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_306.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_306.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2131732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"855s3Dyd6tQOYA+k3gn8FYkTpDWXEqdpQUZ2+C8jZ30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-855s3Dyd6tQOYA+k3gn8FYkTpDWXEqdpQUZ2+C8jZ30="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_307.t2utddyqls.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_307.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hV40dhOk19tfY4CU+nHxBfElAmJPiO8txnVtDcGyRIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2utddyqls"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/1/segment_307.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hV40dhOk19tfY4CU+nHxBfElAmJPiO8txnVtDcGyRIs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/1/segment_307.ts",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\1\\segment_307.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hV40dhOk19tfY4CU+nHxBfElAmJPiO8txnVtDcGyRIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 11:46:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hV40dhOk19tfY4CU+nHxBfElAmJPiO8txnVtDcGyRIs="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/2/ffmpeg_error.12st3ddh6w.log",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\2\\ffmpeg_error.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1947722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXoIv0e9RrsFUwDie1cuUTpVEsMOR0oc7D082kvGzk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 14:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12st3ddh6w"
+        },
+        {
+          "Name": "label",
+          "Value": "api/streams/2/ffmpeg_error.log"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXoIv0e9RrsFUwDie1cuUTpVEsMOR0oc7D082kvGzk0="
+        }
+      ]
+    },
+    {
+      "Route": "api/streams/2/ffmpeg_error.log",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p7\\Deedlock\\Deadlock.UI\\wwwroot\\api\\streams\\2\\ffmpeg_error.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1947722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXoIv0e9RrsFUwDie1cuUTpVEsMOR0oc7D082kvGzk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Feb 2026 14:22:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXoIv0e9RrsFUwDie1cuUTpVEsMOR0oc7D082kvGzk0="
+        }
+      ]
+    }
+  ]
+}

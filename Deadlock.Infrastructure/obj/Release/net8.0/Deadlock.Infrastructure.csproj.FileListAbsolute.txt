@@ -1,0 +1,15 @@
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\bin\Release\net8.0\Deadlock.Infrastructure.deps.json
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\bin\Release\net8.0\Deadlock.Infrastructure.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\bin\Release\net8.0\Deadlock.Infrastructure.pdb
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\bin\Release\net8.0\Deadlock.Core.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\bin\Release\net8.0\Deadlock.Core.pdb
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.csproj.AssemblyReference.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.AssemblyInfoInputs.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.AssemblyInfo.cs
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.csproj.CoreCompileInputs.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.654BC339.Up2Date
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\refint\Deadlock.Infrastructure.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\Deadlock.Infrastructure.pdb
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Infrastructure\obj\Release\net8.0\ref\Deadlock.Infrastructure.dll

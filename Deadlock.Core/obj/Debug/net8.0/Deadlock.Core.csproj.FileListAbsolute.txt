@@ -1,0 +1,12 @@
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\bin\Debug\net8.0\Deadlock.Core.deps.json
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\bin\Debug\net8.0\Deadlock.Core.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\bin\Debug\net8.0\Deadlock.Core.pdb
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.csproj.AssemblyReference.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.AssemblyInfoInputs.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.AssemblyInfo.cs
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.csproj.CoreCompileInputs.cache
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\refint\Deadlock.Core.dll
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\Deadlock.Core.pdb
+E:\track\tectnical\MVC\projects\p7\Deedlock\Deadlock.Core\obj\Debug\net8.0\ref\Deadlock.Core.dll
